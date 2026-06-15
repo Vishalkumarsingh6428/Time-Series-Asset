@@ -55,7 +55,7 @@ python pipeline.py
 ```
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Vishal Kumar Singh**
 
