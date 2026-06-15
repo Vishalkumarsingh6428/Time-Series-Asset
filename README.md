@@ -57,6 +57,7 @@ python pipeline.py
 
 # 👨‍💻 Author
 
-Vishal Kumar Singh
-IIT Madras
+**Vishal Kumar Singh**
+
+**IIT Madras**
 ---
